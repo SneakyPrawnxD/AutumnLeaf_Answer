@@ -1,0 +1,28 @@
+Hi, welcome to your assessment for Autumn Leaf IT.
+
+We are going to do a few small tasks which are going to test your understanding and problem solving skills.
+The tools in question are python and a couple it's libraries, docker and a bit of linux.
+
+It would be advised to create a linux VM for testing as it be a lot easier than using Windows.
+The deadline is 3 days from the time that this assessment was sent to you via mail.
+
+Prerequisities:
+1. Launch Linux VM (Ubuntu is simple to use) - recommended
+2. Install python 
+3. Use pip to install pytest, requests
+4. Install docker
+
+Questions:
+1.  Add 1 line of code to the function in question1.py to let the output print 4 and run.
+2.  Use pytest to make the function in question2.py run. 
+3.  Write python script which will loop and hit a website during the loop and record total time of requests. 
+    The script should get the number of iterations and site name from environment variables.
+    Hint: use requests library.
+4.  Create a docker image of the python script where you input the environment variables for the script to use and then run it to display the total time.
+5.  Create a git repo and upload files and share repo link for us to evaluate.
+6.  Add instructions in a README.md file on the steps/commands to recreate what you did.
+7.  
+
+
+
+
