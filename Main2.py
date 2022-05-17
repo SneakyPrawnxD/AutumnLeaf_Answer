@@ -12,5 +12,5 @@ for i in range(0,LoopCount):
     x = requests.get(WebURL)
     callTime = x.elapsed
     Totaltime = callTime + callTime
-    print(x.elapsed,x.url)
-print('Total time:' + str(Totaltime))
+    print('Request time: ' + str(x.elapsed),'| Web URL: ' + str(x.url))
+print('Total time: ' + str(Totaltime))
