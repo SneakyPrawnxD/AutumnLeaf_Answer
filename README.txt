@@ -3,12 +3,12 @@ Autumn Leaf Assessment Answers:
 Within this folder you will find 7 different files. 
 
 1. Dockerfile
-2. Instrustions
+2. Instructions
 3. Main2.py
-4. question1_Answer.py
-5. question2_Answer.py
-6. README.txt
-7. test_question.py
+4. Q1_Answer.py
+5. README.txt
+6. test_Q2.py
+7. test_Q2Answer.py
 
 The original instructions for assessment can be found within the Instructions file. The instructions asked for 6 different tasks to be completed.
 
